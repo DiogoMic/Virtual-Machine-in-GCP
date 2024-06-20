@@ -149,3 +149,41 @@ Note for Linux OS you use Bash script while for Windows you use local batch file
 
 At the right side of your console page you will see the Monthly estimate of your Virtual Machine instance with the current configuration.
 
+![image](https://github.com/DiogoMic/Virtual-Machine-in-GCP/assets/89931817/7b51568b-f007-46b8-9084-698f0f8201fb)
+
+After reviewing, you click CREATE.
+
+![image](https://github.com/DiogoMic/Virtual-Machine-in-GCP/assets/89931817/a8ce53d9-9464-48ef-bcb2-2ff9f2ddddd7)
+
+Congratulations !!! you have successfully launch a Virtual Machine with Google Cloud Platform.
+
+STEP 5
+Now it’s time to log into your instance.
+
+![image](https://github.com/DiogoMic/Virtual-Machine-in-GCP/assets/89931817/5a00f77b-07b7-4c21-a78f-ce44578ec90f)
+
+At the right under connect click the SSH, automatically another browser will open.
+
+![image](https://github.com/DiogoMic/Virtual-Machine-in-GCP/assets/89931817/8cae8bf8-063e-44fe-84b1-1c2b723b26d0)
+
+A pop screen will show requiring you to authorize
+
+![image](https://github.com/DiogoMic/Virtual-Machine-in-GCP/assets/89931817/bbad9527-e8ff-469d-916d-0a9f55053c14)
+
+Click authorize.
+
+Congratulations you have successfully logged into your instance.
+
+![image](https://github.com/DiogoMic/Virtual-Machine-in-GCP/assets/89931817/32dd39ed-3501-40bb-bae6-2fbb1c0d0974)
+SSH-in-browser
+
+
+STEP 6
+To delete or terminate your instance, go back to the instance console page, select your instance and click delete, this will remove all resources you just created.
+
+![image](https://github.com/DiogoMic/Virtual-Machine-in-GCP/assets/89931817/829854f8-8e80-4bfd-92fc-d5f568c165a2)
+
+
+Congratulations !!! you have successfully created and terminate a Virtual Machine in GCP.
+
+
